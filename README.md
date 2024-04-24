@@ -1,4 +1,4 @@
-# wordnet-analysis
+# Text Validation Service
 
 ## Prerequisites
 - Install [Docker](https://docker.com/).
