@@ -1,0 +1,12 @@
+version: "2"
+services:
+  backend:
+    build:
+      context: ./reduktion_validierung
+    ports:
+      - "5000:5000"
+    networks:
+      - my-net
+
+networks:
+  my-net:
